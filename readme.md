@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 
 4 Configura tus claves:
-- **Local**: crea `.env` con tu clave `OPENAI_API_KEY`.
+- **Local**: crea `.env` con tu clave `GOOGLE_API_KEY`.
 - **Streamlit Cloud**: usa `.streamlit/secrets.toml`.
 
 5 Coloca tus PDFs en `docs/`.
@@ -75,8 +75,6 @@ Abre tu navegador en `http://localhost:8501`.
 
 ---
 
-## Prueba commit push
-    esto es una prueba de un push
 
 ##  Notas
 - Cambia de modelo (`gpt-4` → `gpt-3.5-turbo`) si necesitas reducir costos.
