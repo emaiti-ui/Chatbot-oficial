@@ -75,6 +75,9 @@ Abre tu navegador en `http://localhost:8501`.
 
 ---
 
+## Prueba commit push
+    esto es una prueba de un push
+
 ##  Notas
 - Cambia de modelo (`gpt-4` → `gpt-3.5-turbo`) si necesitas reducir costos.
 - Borra la carpeta `faiss_index/` si cambias los documentos para regenerar el índice.
